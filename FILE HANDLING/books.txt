@@ -1,3 +1,0 @@
-101,Python Basics,John,Available
-102,Data Structures,James,Issued
-103,Computer Networks,David,Available
