@@ -1,4 +1,0 @@
-deposit,5000
-withdraw,2000
-deposit,3000
-withdraw,1000
