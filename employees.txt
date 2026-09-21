@@ -1,0 +1,3 @@
+E101,Shiva,IT,45000
+E102,Rehan,HR,55000
+E103,Varad,Finance,60000
