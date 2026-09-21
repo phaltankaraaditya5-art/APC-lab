@@ -1,2 +1,0 @@
-B1,Python Basics,Varad,Available
-B2,Data Structures,Shiva,Available
